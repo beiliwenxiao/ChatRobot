@@ -1,0 +1,9 @@
+.idea
+.buildpath
+.project
+.settings
+vendor
+composer.lock
+
+Applications\Config\Config.php
+
